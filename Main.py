@@ -67,7 +67,7 @@ def register_user():
     username_info = username.get()
     password_info = password.get()
 
-    file = open(username_info, "w")
+    file = open(username_info+".txt", "w")
     file.write(username_info + "\n")
     file.write(password_info)
     file.close()
@@ -77,9 +77,9 @@ def register_user():
 
     Label(register_screen, text="Registration Success", fg="green", font=("calibri", 11)).pack()
 
-#####################################
+###############################################
 # When Clicking on event thath is login button#
-#####################################
+###############################################
 def login_verify():
     username1 = username_verify.get()
     password1 = password_verify.get()
@@ -88,7 +88,7 @@ def login_verify():
 
     list_of_files = os.listdir()
     if username1 in list_of_files:
-        file1 = open(username1, "r")
+        file1 = open(username1+".txt", "r")
         verify = file1.read().splitlines()
         if password1 in verify:
             login_sucess()
