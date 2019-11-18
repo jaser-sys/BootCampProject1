@@ -20,20 +20,30 @@ At The First The Customer Enter His Name And Password then the program check if 
 The Manger Window
 
 In This Window  the manger will can do multiply tasks  at the same time for example :
+
 1.	He  can add problem to the problems list :
+
   a.	Critical Problem
+  
   b.	Not Critical Problem
+  
   c.	Warranty 
+  
 2.	He can add a mission to Schedule of missions and update the Schedule :
+
   a.	Critical Problem Takes first priority.
+  
   b.	Not Critical Problem Takes Second priority.
+  
   c.	At last comes Warranty.
 
 
 The Worker Window
 
-in this window the worker can access to the Schedule and see what mission he have complete and what missions are left not completed. Here is some of the task that the worker can do :
+in this window the worker can access to the Schedule and see what mission he have complete and what missions are left not completed. Here is some of the task that the worker can do 
+
 1.	If he had finished the mission he can singed  it by Completed .(her Status)
+
 Installing
 
 
