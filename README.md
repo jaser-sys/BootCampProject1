@@ -31,9 +31,11 @@ In This Window  the manger will can do multiply tasks  at the same time for exam
 
 
 The Worker Window
+
 in this window the worker can access to the Schedule and see what mission he have complete and what missions are left not completed. Here is some of the task that the worker can do :
 1.	If he had finished the mission he can singed  it by Completed .(her Status)
 Installing
+
 
 For install This Project You Will need to open Git Bash on your Computer:
 
