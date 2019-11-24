@@ -1,32 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
-<<<<<<< HEAD
- <class>Form</class>
- <widget class="QWidget" name="Form">
-=======
  <class>Dialog</class>
  <widget class="QDialog" name="Dialog">
->>>>>>> 366954afd72803c163081e333f4bbc3b9aa3a43d
   <property name="geometry">
    <rect>
     <x>0</x>
     <y>0</y>
-<<<<<<< HEAD
-    <width>400</width>
-    <height>300</height>
-   </rect>
-  </property>
-  <property name="windowTitle">
-   <string>Log In</string>
-  </property>
-  <widget class="QPushButton" name="Login">
-   <property name="geometry">
-    <rect>
-     <x>60</x>
-     <y>230</y>
-     <width>101</width>
-     <height>41</height>
-=======
     <width>970</width>
     <height>658</height>
    </rect>
@@ -41,27 +20,10 @@
      <y>100</y>
      <width>131</width>
      <height>51</height>
->>>>>>> 366954afd72803c163081e333f4bbc3b9aa3a43d
     </rect>
    </property>
    <property name="font">
     <font>
-<<<<<<< HEAD
-     <pointsize>12</pointsize>
-    </font>
-   </property>
-   <property name="text">
-    <string>Log In</string>
-   </property>
-  </widget>
-  <widget class="QPushButton" name="pushButton_2">
-   <property name="geometry">
-    <rect>
-     <x>240</x>
-     <y>230</y>
-     <width>101</width>
-     <height>41</height>
-=======
      <pointsize>16</pointsize>
     </font>
    </property>
@@ -76,29 +38,10 @@
      <y>140</y>
      <width>511</width>
      <height>81</height>
->>>>>>> 366954afd72803c163081e333f4bbc3b9aa3a43d
     </rect>
    </property>
    <property name="font">
     <font>
-<<<<<<< HEAD
-     <pointsize>12</pointsize>
-    </font>
-   </property>
-   <property name="text">
-    <string>Sign In</string>
-   </property>
-  </widget>
-  <widget class="QLabel" name="label_2">
-   <property name="geometry">
-    <rect>
-     <x>30</x>
-     <y>130</y>
-     <width>121</width>
-     <height>31</height>
-    </rect>
-   </property>
-=======
      <pointsize>16</pointsize>
      <weight>75</weight>
      <italic>false</italic>
@@ -135,49 +78,11 @@ p, li { white-space: pre-wrap; }
      <height>351</height>
     </rect>
    </property>
->>>>>>> 366954afd72803c163081e333f4bbc3b9aa3a43d
    <property name="font">
     <font>
      <pointsize>13</pointsize>
     </font>
    </property>
-<<<<<<< HEAD
-   <property name="cursor">
-    <cursorShape>PointingHandCursor</cursorShape>
-   </property>
-   <property name="text">
-    <string>Password :</string>
-   </property>
-  </widget>
-  <widget class="QLabel" name="label_3">
-   <property name="geometry">
-    <rect>
-     <x>30</x>
-     <y>60</y>
-     <width>121</width>
-     <height>31</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <pointsize>13</pointsize>
-    </font>
-   </property>
-   <property name="cursor">
-    <cursorShape>PointingHandCursor</cursorShape>
-   </property>
-   <property name="text">
-    <string>UserName :</string>
-   </property>
-  </widget>
-  <widget class="QTextEdit" name="textEdit">
-   <property name="geometry">
-    <rect>
-     <x>170</x>
-     <y>60</y>
-     <width>141</width>
-     <height>31</height>
-=======
    <property name="frameShape">
     <enum>QFrame::StyledPanel</enum>
    </property>
@@ -348,23 +253,10 @@ p, li { white-space: pre-wrap; }
      <y>0</y>
      <width>301</width>
      <height>81</height>
->>>>>>> 366954afd72803c163081e333f4bbc3b9aa3a43d
     </rect>
    </property>
    <property name="font">
     <font>
-<<<<<<< HEAD
-     <pointsize>10</pointsize>
-    </font>
-   </property>
-  </widget>
-  <widget class="QTextEdit" name="textEdit_2">
-   <property name="geometry">
-    <rect>
-     <x>170</x>
-     <y>130</y>
-     <width>141</width>
-=======
      <pointsize>18</pointsize>
     </font>
    </property>
@@ -378,18 +270,11 @@ p, li { white-space: pre-wrap; }
      <x>660</x>
      <y>50</y>
      <width>281</width>
->>>>>>> 366954afd72803c163081e333f4bbc3b9aa3a43d
      <height>31</height>
     </rect>
    </property>
    <property name="font">
     <font>
-<<<<<<< HEAD
-     <pointsize>10</pointsize>
-    </font>
-   </property>
-  </widget>
-=======
      <pointsize>16</pointsize>
     </font>
    </property>
@@ -445,7 +330,6 @@ p, li { white-space: pre-wrap; }
   <zorder>checkBox_5</zorder>
   <zorder>label_2</zorder>
   <zorder>dateTimeEdit</zorder>
->>>>>>> 366954afd72803c163081e333f4bbc3b9aa3a43d
  </widget>
  <resources/>
  <connections/>
